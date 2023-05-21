@@ -1,0 +1,16 @@
+#navbar{
+   flex-direction: column;
+   padding-top: 0.5rem;
+   padding-bottom: 0.5rem;
+   overflow: hidden;
+   height: 80px;
+}
+#eğitimler .items{
+    flex-direction: column;
+}
+#eğitimler .items .item{
+    width: 100%;
+}
+.kurslar .kurs{
+    flex-direction: column;
+}

@@ -1,0 +1,176 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+a {
+    text-decoration: none;
+    color: #fff;
+}
+
+html {
+    font-family: 'Open Sans' sans-serif;
+}
+
+#navbar {
+    color: #fff;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+#navbar ul {
+    list-style-type: none;
+    display: flex;
+    align-items: center;
+}
+
+#navbar ul li a {
+    padding: 0.5rem;
+}
+
+#navbar ul li a:hover {
+    background: tan;
+    border-radius: 4px;
+}
+
+/*anasayfa*/
+#anasayfa {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 2rem;
+    border-bottom: 1px solid grey;
+}
+
+#anasayfa img {
+    max-width: 100%;
+    border-radius: 100%;
+}
+
+#anasayfa .name h2 {
+    margin-bottom: 0.75rem;
+}
+
+#anasayfa .name p {
+    opacity: 0.6;
+    font-style: italic;
+}
+
+#anasayfa a {
+    margin-top: 1.25rem;
+    background: saddlebrown;
+    padding: 0.8rem 3rem;
+    border-radius: 7px;
+    letter-spacing: 0.5px;
+}
+
+#anasayfa a:hover {
+    color: saddlebrown;
+    background: #fff;
+    border: 0.5px solid saddlebrown;
+}
+
+#eğitimler {
+    color: #fff;
+    padding: 1rem;
+}
+
+#eğitimler .items {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+#eğitimler .items .item {
+    width: 33%;
+    text-align: center;
+    padding-left: 0.5rem;
+}
+
+#eğitimler .items .item:hover {
+    color: black;
+    opacity: 0.6;
+}
+
+#kurslar {
+    color: #333;
+    padding: 1rem;
+}
+
+.kurslar {
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 0.5rem;
+}
+
+.kurslar .kurs {
+    display: flex;
+    padding: 0.5rem;
+    margin-bottom: 0.5rem;
+}
+
+.kurslar .kurs .kurs-image {
+    margin-right: 0.5rem;
+    position: relative;
+}
+
+.kurslar .kurs .kurs-image img {
+    border-radius: 5px;
+}
+
+.kurslar .kurs .kurs-image span {
+    background: #333;
+    padding: 0.25rem;
+    color: #fff;
+    border-radius: 4px;
+    position: absolute;
+    top: 10px;
+    left: 0;
+}
+
+.kurslar .kurs .kurs-info .title {
+    letter-spacing: 1px;
+    font-weight: 700;
+    margin-bottom: 0.25rem;
+}
+
+.kurslar .kurs .kurs-info .description {
+    letter-spacing: 1px;
+    margin-bottom: 0.25rem;
+    opacity: 0.6;
+}
+
+.kurslar .kurs .kurs-info .instructor {
+    letter-spacing: 1px;
+    margin-bottom: 0.25rem;
+    opacity: 0.6;
+}
+
+#iletişim {
+    color: #fff;
+    padding: 1rem;
+}
+
+#iletişim .iletişim-form {
+    max-width: 700px;
+    margin-left: auto;
+    margin-right: auto;
+    display: flex;
+    flex-direction: column;
+}
+#iletişim .iletişim-form ul{
+    list-style-type: none;
+    display: flex;
+    margin-top: 1rem;
+    align-self: center;
+}
+#iletişim .iletişim-form ul li a{
+    padding: 1rem;
+    font-size: 2rem;
+}
+#iletişim .iletişim-form ul li a:hover{
+    opacity: 0.8;
+}
