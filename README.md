@@ -1,4 +1,4 @@
-## Training
+## Education Website
 - Web sitem, responsive (duyarlı) tasarım prensiplerine dayalı olarak geliştirildi. Bu sayede, kullanıcılarımız herhangi bir cihazda (mobil, tablet veya bilgisayar) sorunsuz bir deneyim yaşayabilirler.
 - Mobil kullanıcılarımızı düşünerek, web sitemizi dokunmatik ekranlarda kullanımı kolay ve kullanıcı dostu bir şekilde tasarladık. Böylece herkes, doğal ve akıcı bir deneyim yaşayabilir.
 
