@@ -1,3 +1,6 @@
+## Training
+-Web sitem, responsive (duyarlı) tasarım prensiplerine dayalı olarak geliştirildi. Bu sayede, kullanıcılarımız herhangi bir cihazda (mobil, tablet veya bilgisayar) sorunsuz bir deneyim yaşayabilirler.
+-Mobil kullanıcılarımızı düşünerek, web sitemi dokunmatik ekranlarda kullanımı kolay ve kullanıcı dostu bir şekilde tasarladım. Böylece herkes, doğal ve akıcı bir deneyim yaşayabilir.
 <img title="a title" alt="Alt text" src="https://github.com/mrvozturk/bbc_blog/assets/133267808/a2da3c7d-32dd-4dc4-8aaf-586e3a1f0bbf" width="250px" height="500px">
 <img title="a title" alt="Alt text" src="https://github.com/mrvozturk/bbc_blog/assets/133267808/1a68699f-67b5-465e-aca2-da7e85cab4af"width="250px" height="500px">
 <img title="a title" alt="Alt text" src="https://github.com/mrvozturk/bbc_blog/assets/133267808/a634ecca-e299-424b-b486-ad7e687189b8"width="250px" height="500px">
