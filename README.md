@@ -1,11 +1,5 @@
-### Doğayla Yaşam
-- Web sitem, responsive (duyarlı) tasarım ilkelerine dayanarak geliştirdim, böylece kullanıcılarımız hem mobil cihazlarda hem de tabletlerde sorunsuz bir deneyim yaşayabilirler.
-- Mobil dostu bir arayüz sunan web sitem, dokunmatik ekranlarda kullanımı kolay ve sezgisel bir deneyim sunmaktadır
-<img title="Doğayla yaşam" alt="Alt text" src="https://github.com/mrvozturk/training_html/assets/133267808/8901a590-08ff-451a-a2fb-fd2dc6651a52" width="250px" height="500px">
-<img title="Doğayla Yaşam" alt="Doğa" src="https://github.com/mrvozturk/training_html/assets/133267808/aee063c6-434d-4e3a-82ef-98e001136c7f" width="250px" height="500px">
-<img title="Doğayla Yaşam" alt="Hayvanlar Alemi" src="https://github.com/mrvozturk/training_html/assets/133267808/1fc48d72-eb26-42fc-923c-6ecb6d814f75" width="250px" height="500px">
-<img title="Doğayla Yaşam" alt="Bilim" src="https://github.com/mrvozturk/training_html/assets/133267808/256adef2-8794-42ba-bf5e-15761680e815" width="250px" height="500px">
-<img title="Doğayla Yaşam" alt="Uzay" src="https://github.com/mrvozturk/training_html/assets/133267808/49026eb7-6a9d-47e4-a5f3-fe7f14b6da04" width="250px" height="500px">
-
-
-
+<img title="a title" alt="Alt text" src="https://github.com/mrvozturk/bbc_blog/assets/133267808/a2da3c7d-32dd-4dc4-8aaf-586e3a1f0bbf" width="250px" height="500px">
+<img title="a title" alt="Alt text" src="https://github.com/mrvozturk/bbc_blog/assets/133267808/1a68699f-67b5-465e-aca2-da7e85cab4af"width="250px" height="500px">
+<img title="a title" alt="Alt text" src="https://github.com/mrvozturk/bbc_blog/assets/133267808/a634ecca-e299-424b-b486-ad7e687189b8"width="250px" height="500px">
+<img title="a title" alt="Alt text" src="https://github.com/mrvozturk/bbc_blog/assets/133267808/67bcf3b2-996f-47c8-b7de-cde32a45fec1"width="250px" height="500px">
+<img title="a title" alt="Alt text" src="https://github.com/mrvozturk/bbc_blog/assets/133267808/6fc1683f-b4b0-4367-a853-03133a48e486"width="250px" height="500px">
