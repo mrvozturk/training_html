@@ -3,7 +3,6 @@
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 * Our website has been developed based on responsive design principles, ensuring that our users have a seamless experience on any device (mobile, tablet, or computer).
 * With a focus on mobile users, we have designed our website to be user-friendly and easy to navigate on touch screens. This allows everyone to have a natural and smooth experience.
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ### You can access the website through the following link: ( https://bbc-blog.vercel.app/ )
 
